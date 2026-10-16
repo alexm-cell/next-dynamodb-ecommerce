@@ -5,3 +5,4 @@
 *.local
 .env*.local
 *.tsbuildinfo
+.env.local
